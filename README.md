@@ -1,2 +1,4 @@
 # Data-Science
-Some simple data analysis 
+
+
+My Data Science journey from the basics
